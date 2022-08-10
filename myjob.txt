@@ -1,0 +1,18 @@
+    Frontend/Backend Developer
+    ผู้พัฒนาส่วนหน้า/ส่วนหลัง
+    Krungthai Panich Insurance Public Company Limited
+   
+ Responsibilities  
+>Deploy and maintain the pipeline.
+ปรับใช้และบำรุงรักษาไปป์ไลน์
+>Design, develop and maintain modern web applications with the Flask/Django Framework,.
+ออกแบบ พัฒนา และบำรุงรักษาเว็บแอปพลิเคชั่นที่ทันสมัยด้วย Flask/Django Framework,
+>Develop cutting-edge web applications with the User Experience (UX / UI) team.
+พัฒนาเว็บแอปพลิเคชั่นที่ทันสมัยด้วยทีม User Experience (UX / UI)
+Qualification
+>Bachelor’s or Master’s degree in Computer Science or a related field
+วุฒิปริญญาตรีหรือโท สาขาวิทยาการคอมพิวเตอร์หรือสาขาที่เกี่ยวข้อง
+>3+ years of experience in API or Front-end or Back-end development
+ประสบการณ์ 3 ปีขึ้นไปในด้าน API หรือ Front-end หรือ Back-end development
+>Understand the software development life cycle
+เข้าใจวงจรชีวิตการพัฒนาซอฟต์แวร์
